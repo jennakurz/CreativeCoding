@@ -12,7 +12,7 @@ background(204);
 
 function draw() {
 
-rect (x, y, s, s);
+rect(x, y, s, s);
 rect(x+d, y, 2*s, 2*s);
-rect(x+2d, y, 2*s, 2*s);
+rect(x+2*d, y, 2*s, 2*s);
 }
